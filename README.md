@@ -1,4 +1,5 @@
 # Hora Certa js
-Treino de JS básico. Usar a hora local em um site.
+Treino de JS básico e comandos git. A finalidade é usar a informação da hora local em um site.
 
-Trainning JS. Get the local time and show in the website
+
+Trainning basic of JS and git. The objetive is get the local time and show in the website
