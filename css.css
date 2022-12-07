@@ -1,5 +1,5 @@
 body {
-    background-color:#e2c667 ;
+    background-color:#41698a ;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -24,15 +24,22 @@ footer {
 }
 
 section {
-    background-color: rgba(255, 255, 255, 0.616);
-    border-radius: 100px;
-    padding: 1px;
+    background-color: rgba(255, 255, 255, 0.397);
+    border-radius: 5px;
+    padding: 5px;
     margin: 0 auto;
     text-align: center;
-    display: flex;
+    width: 700px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
 }
 
-#photo {
+#msg {
+    color:  white;
+    font-weight: bold;
+}
+
+#img {
     margin:20px 0px 20px 0px;
+    width: 50%;
+    border-radius: 20%;
 }
